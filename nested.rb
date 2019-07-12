@@ -18,9 +18,9 @@ def hopper
         :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
-        }
+
      }
-     programmer_hash[:grace_hopper]
+     programmer_hash[:yukihiro_matsumoto]
 end
 
 def alan_kay_is_known_for
