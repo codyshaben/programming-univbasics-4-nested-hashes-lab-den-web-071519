@@ -132,9 +132,6 @@ def adding_to_dennis
         }
      }
      
-  dennis_ritchies_language[:languages] = "Assembly"
-  
-  dennis_ritchies_language
-  programmer_hash
+
 
 end
