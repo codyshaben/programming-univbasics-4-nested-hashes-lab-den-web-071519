@@ -20,7 +20,7 @@ def hopper
           :languages => ["C"]
 
      }
-     programmer_hash[:yukihiro_matsumoto]
+     programmer_hash[:yukihiro_matsumoto] = {}
 end
 
 def alan_kay_is_known_for
