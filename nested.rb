@@ -4,10 +4,6 @@
     #  expect(hopper).to eq({:known_for => "COBOL", :languages => ["COBOL", "FORTRAN"]})
 
   
-
-
-
-
 def hopper
 	programmer_hash = 
  		{
@@ -23,12 +19,8 @@ def hopper
           :known_for => "Unix",
           :languages => ["C"]
         }
-        
-        hopper[grace_hopper]
-        
      }
-
-
+     programmer_hash[grace_hopper]
 end
 
 def alan_kay_is_known_for
